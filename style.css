@@ -29,22 +29,22 @@ html{
     .l-2{ display: block; }
     .l-1{ display: none; }
 }
-@media (max-width: 500px){
+@media (max-width: 530px){
     html{ font-size: 37.5%; }
     .l-3{ display: block; }
     .l-1,.l-2{ display: none; }
 }
-@media (max-width: 380px){
+@media (max-width: 430px){
     html{ font-size: 25%; }
     .l-4{ display: block; }
     .l-1,.l-2,.l-3{ display: none; }
 }
-@media (max-width: 250px){
+@media (max-width: 270px){
     html{ font-size: 15.6%; }
     .l-5{ display: block; }
     .l-1,.l-2,.l-3,.l-4{ display: none; }
 }
-@media (max-width: 160px){
+@media (max-width: 190px){
     html{ font-size: 7.5%; }
     .l-6{ display: block; }
     .l-1,.l-2,.l-3,.l-4,.l-5{ display: none; }
